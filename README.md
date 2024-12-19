@@ -1,6 +1,6 @@
 # AI Chess Commentary Project
 
-This project combines computer vision, chess analysis, and AI commentary to create a live commentary system for chess games. The system leverages `SSIM` (Structural Similarity Index) to identify chess pieces on a live board, converts the board state into FEN notation, and uses Gemini 1.5 Pro via an API to generate commentary for the current chess position. The entire process is embedded in a Django-based full-stack web application with live updates.
+This project combines computer vision, chess analysis, and AI commentary to create a live commentary system for chess games. The system leverages SSIM (Structural Similarity Index) to identify chess pieces on a live board, converts the board state into FEN notation, and uses Gemini 1.5 Pro via an API to generate commentary for the current chess position. The entire process is embedded in a Django-based full-stack web application with live updates.
 
 ## Features
 
